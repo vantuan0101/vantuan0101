@@ -6,7 +6,7 @@
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
 
-## Working <a href="https://github.com/vantuan0101"><img align="left" width="auto" height="200" src="./image/front-end-developer.png"></a>
+## Working <a href="https://github.com/vantuan0101"><img align="left" width="auto" height="200" src="./image/images.jpeg"></a>
 
 - `Self-learning` I'm always trying to learn and improve myself
 - `Enjoyable` I am a cheerful person
@@ -15,5 +15,5 @@
 
 ## Projects of myself
 
-- Job listing with filter: https://github.com/vantuan0101/job-listing
+- FPTShop : https://github.com/vantuan0101/fptshop
 
