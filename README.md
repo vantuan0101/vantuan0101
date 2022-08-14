@@ -3,8 +3,8 @@
 # Van Tuan - Front-end Develop
 
 - Open and friendly.
-- Love to learn new things, especially things related to Frontend stacks.
-- Enjoy working with ReactJS ❤
+- Love to learn new things, especially things related to Frontend and Backend stacks.
+- Enjoy working with NodeJS , ReactJS ❤
 
 ## Working <a href="https://github.com/vantuan0101"><img align="left" width="auto" height="200" src="./image/images.jpeg"></a>
 
