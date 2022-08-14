@@ -1,4 +1,4 @@
-![Easy Frontend banner](./image/Front-End-Developer-Skills-1.jpeg)
+![Easy Frontend banner](./image/60e56ad573503.png)
 
 # Van Tuan - Front-end Develop
 
