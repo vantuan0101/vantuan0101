@@ -1,6 +1,6 @@
 ![Easy Frontend banner](./image/60e56ad573503.png)
 
-# Van Tuan - Front-end Develop
+# Van Tuan - Fullstack Develop
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend and Backend stacks.
